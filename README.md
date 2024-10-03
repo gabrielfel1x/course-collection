@@ -12,10 +12,11 @@ Create a new Notion Integration and get the `NOTION_API_KEY` from the integratio
 
 Create a new database following this structure:
 
-| title               | description | platform | imageUrl       |
-| ------------------- | ----------- | -------- | -------------- |
-| python course       | lorem ipsum | udemy    | /thumbnail.png |
-| javascript training | lorem ipsum | alura    | /thumbnail.png |
+| title       | description           | platform | imageUrl             |
+| ----------- | --------------------- | -------- | -------------------- |
+| Lorem Ipsum | lorem ipsum is simply | Lorem    | thumbnail.png        |
+| Lorem Ipsum | lorem ipsum is simply | Lorem    | machine-learning.png |
+| Lorem Ipsum | lorem ipsum is simply | Lorem    | python.png           |
 
 ### 3. Install dependencies
 

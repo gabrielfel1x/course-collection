@@ -3,7 +3,7 @@ export default function Hero() {
     <section className="py-12">
       <h1 className="text-4xl font-bold text-center">
         Descubra os melhores <br />
-        Cursos Gratuiros
+        Cursos Gratuitos
       </h1>
       <p className="text-center text-gray-500">Para sua formação</p>
       <form className="container flex gap-2 mt-4 max-w-2xl mx-auto">
